@@ -16,3 +16,6 @@ Ovdje će biti upute vezane za objavu sadržaja na GitHub repozitoriju.
 # Test datoteka
 
 [Poveznica na test.md datoteku](test.md)
+
+# Dodatne informacije o projektu
+Ovo su dodatne informacije o projektu
