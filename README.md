@@ -19,3 +19,6 @@ Ovdje će biti upute vezane za objavu sadržaja na GitHub repozitoriju.
 
 # Dodatne informacije o projektu
 Ovo su dodatne informacije o projektu
+
+# pristup stranici
+[poveznica na stranicu](https://helenamarcec.github.io/hello-world/)
